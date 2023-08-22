@@ -6,6 +6,6 @@
   "scripts": {
     "test": "jest"
   },
-  "author": "[\"Aurora Husong\", \"Cynthia Weaver\"]",
+  "author": "Aurora Husong, Cynthia Weaver",
   "license": "ISC"
 }
